@@ -1,11 +1,42 @@
-body {
 
-button {
-    border-radius: 100px;
-    width: 100px;
-    height: 100px;
-    font-family: monospace;
-    top: 100px;
-    position: relative;
+
+
+ button{
+     padding: 20px 30px;
+     color: #000;
+     background: rebeccapurple;
+     font-size: 15px;
+     border-radius: 10px;
+     position: relative;
+     top: 50px;
+     left: 45%;
+     font-family: 'Baloo Bhaijaan', cursive;
+     font-family: 'Luckiest Guy', cursive;
+ }
+div{
+    font-size: 30px;
+    color: salmon;
+    text-align: center;
+     font-family: 'Baloo Bhaijaan', cursive;
+     font-family: 'Luckiest Guy', cursive;  
+
+a{
+	color: green;
+	text-align: left;
+	font-size: 30px;
+	text-decoration: none;
+	border-radius: 20px;
+    border-style: solid ; 
+    padding: 8px;
 
 }
+hr{
+	width: 59%;
+	float: left;
+	margin-right: left;
+
+}
+
+
+
+
