@@ -1,0 +1,19 @@
+ button{
+     padding: 20px 30px;
+     color: #000;
+     background: rebeccapurple;
+     font-size: 15px;
+     border-radius: 10px;
+     position: relative;
+     top: 50px;
+     left: 45%;
+     font-family: 'Baloo Bhaijaan', cursive;
+     font-family: 'Luckiest Guy', cursive;
+ }
+div{
+    font-size: 30px;
+    color: salmon;
+    text-align: center;
+     font-family: 'Baloo Bhaijaan', cursive;
+     font-family: 'Luckiest Guy', cursive;  
+}
