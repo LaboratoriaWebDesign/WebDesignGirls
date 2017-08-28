@@ -1,0 +1,83 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?io6fpf');
+  src:  url('fonts/icomoon.eot?io6fpf#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?io6fpf') format('truetype'),
+    url('fonts/icomoon.woff?io6fpf') format('woff'),
+    url('fonts/icomoon.svg?io6fpf#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-pen:before {
+  content: "\e900";
+}
+.icon-paperplane2:before {
+  content: "\eb8e";
+}
+.icon-music:before {
+  content: "\e901";
+}
+.icon-study:before {
+  content: "\e902";
+}
+.icon-food:before {
+  content: "\eb8f";
+}
+.icon-icecream:before {
+  content: "\e938";
+}
+.icon-brush:before {
+  content: "\e9da";
+}
+.icon-aids:before {
+  content: "\ea18";
+}
+.icon-heart:before {
+  content: "\ea19";
+}
+.icon-piano:before {
+  content: "\ea1c";
+}
+.icon-bike:before {
+  content: "\ea25";
+}
+.icon-plane:before {
+  content: "\ea29";
+}
+.icon-telescope:before {
+  content: "\e02a";
+}
+.icon-pencil:before {
+  content: "\e032";
+}
+.icon-strategy:before {
+  content: "\e03b";
+}
+.icon-beaker:before {
+  content: "\e03c";
+}
+.icon-profile-female:before {
+  content: "\e041";
+}
+.icon-bike2:before {
+  content: "\e042";
+}
+.icon-target:before {
+  content: "\e04e";
+}
