@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat+Alternates|Pacifico|Sedgwick+Ave+Display');
+* {
+/*	outline: 1px solid red;	
+*/
+	margin:0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Montserrat Alternates', sans-serif;
+	background: url(http://s1.1zoom.net/big0/504/Sea_Shells_Sand_Beach_502443.jpg)
+}
+img {
+	position: relative;
+	top: 100px;
+	left: 100px;
+	border-radius: 30px;
+
+}
+div {
+	/*	float: right;*/
+	display: inline-block;
+	color: white;
+	position: relative;
+	top: 100px;
+	left: 200px;
+}
+span {
+	color: red;
+}
+.icon-3dglasses{
+	font-size: 100px;
+	color: black;
+	position: relative;
+	top: 300px;
+	right: 350px;
+}
+.icon-heart{
+	font-size: 100px;
+	color: red;
+	position: relative;
+	top: 300px;
+	right: 300px;
+}
+.icon-book{
+	font-size: 100px;
+	color: yellow;
+	position: relative;
+	top: 300px;
+	right: 200px;
+}
