@@ -1,0 +1,56 @@
+*{
+    /*outline: 2px solid red;*/
+    margin: 0;
+    padding: 0;
+}
+/*body{
+  
+}*/
+h1{
+    text-align: center;
+    color: pink; 
+    font-size: 20px;
+    font-family: 'Frijole', cursive;
+}
+img{
+    left: 40%;
+    width: 200px;
+    height: 200px;
+    position: relative;
+  
+   text-align: center;
+
+}
+.descripcion{
+    text-align: center;
+    color: darkmagenta;
+    font-family: 'Baloo Bhaijaan', cursive;
+   position: relative;
+ 
+ 
+}
+div{
+font-family: 'Baloo Bhaijaan', cursive;
+font-family: 'Luckiest Guy', cursive;
+position: relative;
+
+}
+
+
+
+.hobbie{
+    width: 140px;
+    height: 100px;
+    box-shadow: 8px 10px 14px -8px #CECECE;
+    float: left;
+    text-align: center;
+    background-color:firebrick;
+    padding-top:30px;
+    margin: 5px;
+    -webkit-transition:all  1s ease; 
+    -moz-transition:all 1s ease;
+    transition: all 1s ease; 
+    left: 50%;
+    
+}
+
