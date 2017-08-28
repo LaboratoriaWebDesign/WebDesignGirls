@@ -1,5 +1,18 @@
-body {
-    background: yellow;
+
+a{
+	color: green;
+	text-align: left;
+	font-size: 30px;
+	text-decoration: none;
+	border-radius: 20px;
+    border-style: solid ; 
+    padding: 8px;
+
+}
+hr{
+	width: 59%;
+	float: left;
+	margin-right: left;
 }
 
 button {
@@ -10,3 +23,4 @@ button {
     top: 100px;
     position: relative;
 }
+
