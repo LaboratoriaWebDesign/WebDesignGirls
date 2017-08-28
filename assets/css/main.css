@@ -1,4 +1,5 @@
 
+
  button{
      padding: 20px 30px;
      color: #000;
@@ -18,16 +19,22 @@ div{
      font-family: 'Baloo Bhaijaan', cursive;
      font-family: 'Luckiest Guy', cursive;  
 
-body {
-    background: yellow;
-}
-
-button {
-    border-radius: 100px;
-    width: 100px;
-    height: 100px;
-    font-family: monospace;
-    top: 100px;
-    position: relative;
+a{
+	color: green;
+	text-align: left;
+	font-size: 30px;
+	text-decoration: none;
+	border-radius: 20px;
+    border-style: solid ; 
+    padding: 8px;
 
 }
+hr{
+	width: 59%;
+	float: left;
+	margin-right: left;
+
+}
+
+
+
